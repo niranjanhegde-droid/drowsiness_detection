@@ -9,8 +9,8 @@ It detects when the driver's eyes remain closed for too long and triggers an ala
 - Alarm sound when drowsiness is detected
 - Works without pre-trained datasets
 
-<img src="<img width="691" height="624" alt="Screenshot 2025-08-24 102838" src="https://github.com/user-attachments/assets/cd8dbd64-5148-4c1f-bb93-b96c777634cd" />
-" alt="Dashboard" width="500">
+<img width="691" height="624" alt="Screenshot 2025-08-24 102838" src="https://github.com/user-attachments/assets/cd8dbd64-5148-4c1f-bb93-b96c777634cd" />
+
 
 
 
